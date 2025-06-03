@@ -1,3 +1,7 @@
+# Disclaimer
+This repository is outdated. It has been found that some Circom circuits are under-constrained, by [Hideaki Takahashi](https://github.com/Koukyosyumei). The circuits may be vulnerable to forging witness. There is no plan to update this repository.
+
+
 # zvm
 Zero Knowledge based Ethereum Virtual Machine in Circom language
 
